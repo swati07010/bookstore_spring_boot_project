@@ -34,7 +34,7 @@ A full-stack web application built with Spring Boot for backend development, uti
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- Maven
+- Spring Tool Suite (STS)
 - MySQL
 
 
